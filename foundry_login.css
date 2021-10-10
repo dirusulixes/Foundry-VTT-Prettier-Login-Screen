@@ -17,8 +17,8 @@ based on code by u/bass-blowfish
                                                
   /* Here you can change the base and hover color for the buttons
      on the login form. */                                          
-  --login-button-color: rgb(150, 12, 16);                          
-  --login-button-color-hover: rgb(228, 9, 19);        
+  --login-button-color: rgb(163, 55, 55);                          
+  --login-button-color-hover: rgb(70, 19, 19);         
                                                              
   /* Change to "inherit" if you want to keep the text title.  
      You then also need to remove the "World Logo" declaration. */    
@@ -62,7 +62,7 @@ body.vtt.players .watermark:before {
 /* Login mask width and position */
 #join-game {
   width: 400px !important;
-  top: calc(50% - 300px) !important;
+  top: calc(50% - 400px) !important;
 }
 
 /* Restyle inputs */
